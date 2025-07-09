@@ -26,6 +26,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://samdasoo2l.github.io/github-api-test",
   "eslintConfig": {
     "extends": [
       "react-app",
