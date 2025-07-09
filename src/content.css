@@ -1,0 +1,22 @@
+.content-area {
+  margin-top: 10px;
+  background: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: 'Consolas', 'Meiryo', 'monospace';
+  font-size: 1em;
+  color: #222;
+  overflow-x: auto;
+}
+
+.content-loading {
+  color: #007bff;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.content-error {
+  color: #d32f2f;
+  font-weight: bold;
+  margin-top: 10px;
+}
